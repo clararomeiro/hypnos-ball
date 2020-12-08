@@ -15,5 +15,10 @@ def draw():
 window_open = True
 
 while window_open:
+    for event in pygame.event.get():
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_ESCAPE:
+                window_open = False
+
     draw()
     pygame.display.update()
