@@ -2,22 +2,6 @@
  [('pkg_resources',
    'e:\\program files\\python\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.specifiers',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.version',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
-   'PYMODULE'),
   ('pkg_resources._vendor.appdirs',
    'e:\\program '
    'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
@@ -27,6 +11,47 @@
    'e:\\program files\\python\\lib\\ctypes\\_endian.py',
    'PYMODULE'),
   ('struct', 'e:\\program files\\python\\lib\\struct.py', 'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('string', 'e:\\program files\\python\\lib\\string.py', 'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'e:\\program '
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
   ('pkg_resources._vendor.pyparsing',
    'e:\\program '
    'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
@@ -201,34 +226,9 @@
   ('_strptime', 'e:\\program files\\python\\lib\\_strptime.py', 'PYMODULE'),
   ('pprint', 'e:\\program files\\python\\lib\\pprint.py', 'PYMODULE'),
   ('copy', 'e:\\program files\\python\\lib\\copy.py', 'PYMODULE'),
-  ('string', 'e:\\program files\\python\\lib\\string.py', 'PYMODULE'),
-  ('pkg_resources._vendor.packaging.markers',
+  ('pkg_resources._vendor',
    'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.requirements',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._structures',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._compat',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.six',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.utils',
-   'e:\\program '
-   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'files\\python\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
    'PYMODULE'),
   ('distutils.util',
    'e:\\program files\\python\\lib\\distutils\\util.py',
@@ -335,6 +335,7 @@
   ('stat', 'e:\\program files\\python\\lib\\stat.py', 'PYMODULE'),
   ('zipfile', 'e:\\program files\\python\\lib\\zipfile.py', 'PYMODULE'),
   ('__future__', 'e:\\program files\\python\\lib\\__future__.py', 'PYMODULE'),
+  ('stringprep', 'e:\\program files\\python\\lib\\stringprep.py', 'PYMODULE'),
   ('tracemalloc', 'e:\\program files\\python\\lib\\tracemalloc.py', 'PYMODULE'),
   ('pickle', 'e:\\program files\\python\\lib\\pickle.py', 'PYMODULE'),
   ('doctest', 'e:\\program files\\python\\lib\\doctest.py', 'PYMODULE'),
@@ -369,7 +370,6 @@
   ('_compat_pickle',
    'e:\\program files\\python\\lib\\_compat_pickle.py',
    'PYMODULE'),
-  ('stringprep', 'e:\\program files\\python\\lib\\stringprep.py', 'PYMODULE'),
   ('pygame',
    'e:\\program files\\python\\lib\\site-packages\\pygame\\__init__.py',
    'PYMODULE'),
