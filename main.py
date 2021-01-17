@@ -17,7 +17,7 @@ pygame.display.set_caption("Hypnos Ball")
 window_open = True
 pos_x = 85
 pos_y = 85
-vel = 0.3
+vel = 0.4
 clock = pygame.time.Clock()
 
 if __name__ == "__main__":
@@ -38,7 +38,7 @@ if __name__ == "__main__":
                     pos_y = 85
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_1 or event.key == pygame.K_KP1:
-                    vel = 0.3
+                    vel = 0.4
                 elif event.key == pygame.K_2 or event.key == pygame.K_KP2:
                     vel = 0.5
                 elif event.key == pygame.K_3 or event.key == pygame.K_KP3:
